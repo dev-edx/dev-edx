@@ -1,5 +1,5 @@
 <div  align="center" > 
-      <h1>Hi there 👋 I'm Dev</h1>
+      <h1>Hi,👋 I'm Dev</h1>
 </div>
 
 - 👀 I’m interested in ReactJS and Frontend Tools
